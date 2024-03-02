@@ -1,0 +1,5 @@
+3
+T Nikola 10
+M Kormos 20
+H Frigyes 50
+sav

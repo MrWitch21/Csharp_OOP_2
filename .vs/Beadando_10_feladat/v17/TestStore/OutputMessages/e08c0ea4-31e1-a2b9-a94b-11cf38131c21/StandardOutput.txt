@@ -1,0 +1,477 @@
+File10_Moods_Check
+File sikeresen beolvasva!
+Adatok sikeresen letarolva!
+
+1. nap
+Nev: Nikola Tarantula eletero: 8
+Nev: Kormos Macska eletero: 23
+Nev: Frigyes Horcsog eletero: 47
+
+A legeletrevalobb allat(ok): 
+Nev: Frigyes eletero: 47
+
+2. nap
+Nev: Nikola Tarantula eletero: 9
+Nev: Kormos Macska eletero: 26
+Nev: Frigyes Horcsog eletero: 49
+
+A legeletrevalobb allat(ok): 
+Nev: Frigyes eletero: 49
+
+3. nap
+Nev: Nikola Tarantula eletero: 10
+Nev: Kormos Macska eletero: 29
+Nev: Frigyes Horcsog eletero: 51
+
+A legeletrevalobb allat(ok): 
+Nev: Frigyes eletero: 51
+
+File10_Moods -> Ok
+
+File11_Moods_Check
+File sikeresen beolvasva!
+Adatok sikeresen letarolva!
+
+1. nap
+Nev: Nikola Tarantula eletero: 8
+Nev: Kormos Macska eletero: 23
+Nev: Frigyes Horcsog eletero: 47
+
+A legeletrevalobb allat(ok): 
+Nev: Frigyes eletero: 47
+
+2. nap
+Nev: Nikola Tarantula eletero: 9
+Nev: Kormos Macska eletero: 26
+Nev: Frigyes Horcsog eletero: 49
+
+A legeletrevalobb allat(ok): 
+Nev: Frigyes eletero: 49
+
+File11_Moods -> Ok
+
+File12_Moods_Check
+File sikeresen beolvasva!
+Adatok sikeresen letarolva!
+
+1. nap
+Nev: Nikola Tarantula eletero: 51
+Nev: Szepseg Tarantula eletero: 21
+Nev: Frigyes Macska eletero: 70
+Nev: Lajcsi Macska eletero: 43
+Nev: Kormos Macska eletero: 38
+Nev: Selymeske Horcsog eletero: 32
+Nev: Höri Horcsog eletero: 70
+Nev: Ferenc Horcsog eletero: 22
+
+A legeletrevalobb allat(ok): 
+Nev: Frigyes eletero: 70
+Nev: Höri eletero: 70
+
+2. nap
+Nev: Nikola Tarantula eletero: 52
+Nev: Szepseg Tarantula eletero: 22
+Nev: Frigyes Macska eletero: 70
+Nev: Lajcsi Macska eletero: 46
+Nev: Kormos Macska eletero: 41
+Nev: Selymeske Horcsog eletero: 34
+Nev: Höri Horcsog eletero: 70
+Nev: Ferenc Horcsog eletero: 24
+
+A legeletrevalobb allat(ok): 
+Nev: Frigyes eletero: 70
+Nev: Höri eletero: 70
+
+3. nap
+Nev: Nikola Tarantula eletero: 53
+Nev: Szepseg Tarantula eletero: 23
+Nev: Frigyes Macska eletero: 70
+Nev: Lajcsi Macska eletero: 49
+Nev: Kormos Macska eletero: 44
+Nev: Selymeske Horcsog eletero: 36
+Nev: Höri Horcsog eletero: 70
+Nev: Ferenc Horcsog eletero: 26
+
+A legeletrevalobb allat(ok): 
+Nev: Frigyes eletero: 70
+Nev: Höri eletero: 70
+
+4. nap
+Nev: Nikola Tarantula eletero: 54
+Nev: Szepseg Tarantula eletero: 24
+Nev: Frigyes Macska eletero: 70
+Nev: Lajcsi Macska eletero: 52
+Nev: Kormos Macska eletero: 47
+Nev: Selymeske Horcsog eletero: 38
+Nev: Höri Horcsog eletero: 70
+Nev: Ferenc Horcsog eletero: 28
+
+A legeletrevalobb allat(ok): 
+Nev: Frigyes eletero: 70
+Nev: Höri eletero: 70
+
+5. nap
+Nev: Nikola Tarantula eletero: 55
+Nev: Szepseg Tarantula eletero: 25
+Nev: Frigyes Macska eletero: 70
+Nev: Lajcsi Macska eletero: 55
+Nev: Kormos Macska eletero: 50
+Nev: Selymeske Horcsog eletero: 40
+Nev: Höri Horcsog eletero: 70
+Nev: Ferenc Horcsog eletero: 30
+
+A legeletrevalobb allat(ok): 
+Nev: Frigyes eletero: 70
+Nev: Höri eletero: 70
+
+6. nap
+Nev: Nikola Tarantula eletero: 53
+Nev: Szepseg Tarantula eletero: 23
+Nev: Frigyes Macska eletero: 70
+Nev: Lajcsi Macska eletero: 58
+Nev: Kormos Macska eletero: 53
+Nev: Selymeske Horcsog eletero: 37
+Nev: Höri Horcsog eletero: 67
+Nev: Ferenc Horcsog eletero: 27
+
+A legeletrevalobb allat(ok): 
+Nev: Frigyes eletero: 70
+
+7. nap
+Nev: Nikola Tarantula eletero: 51
+Nev: Szepseg Tarantula eletero: 21
+Nev: Frigyes Macska eletero: 70
+Nev: Lajcsi Macska eletero: 61
+Nev: Kormos Macska eletero: 56
+Nev: Selymeske Horcsog eletero: 34
+Nev: Höri Horcsog eletero: 64
+Nev: Ferenc Horcsog eletero: 24
+
+A legeletrevalobb allat(ok): 
+Nev: Frigyes eletero: 70
+
+8. nap
+Nev: Nikola Tarantula eletero: 49
+Nev: Szepseg Tarantula eletero: 19
+Nev: Frigyes Macska eletero: 70
+Nev: Lajcsi Macska eletero: 64
+Nev: Kormos Macska eletero: 59
+Nev: Selymeske Horcsog eletero: 31
+Nev: Höri Horcsog eletero: 61
+Nev: Ferenc Horcsog eletero: 21
+
+A legeletrevalobb allat(ok): 
+Nev: Frigyes eletero: 70
+
+9. nap
+Nev: Nikola Tarantula eletero: 47
+Nev: Szepseg Tarantula eletero: 17
+Nev: Frigyes Macska eletero: 70
+Nev: Lajcsi Macska eletero: 67
+Nev: Kormos Macska eletero: 62
+Nev: Selymeske Horcsog eletero: 28
+Nev: Höri Horcsog eletero: 58
+Nev: Ferenc Horcsog eletero: 18
+
+A legeletrevalobb allat(ok): 
+Nev: Frigyes eletero: 70
+
+10. nap
+Nev: Nikola Tarantula eletero: 45
+Nev: Szepseg Tarantula eletero: 15
+Nev: Frigyes Macska eletero: 70
+Nev: Lajcsi Macska eletero: 70
+Nev: Kormos Macska eletero: 65
+Nev: Selymeske Horcsog eletero: 25
+Nev: Höri Horcsog eletero: 55
+Nev: Ferenc Horcsog eletero: 15
+
+A legeletrevalobb allat(ok): 
+Nev: Frigyes eletero: 70
+Nev: Lajcsi eletero: 70
+
+11. nap
+Nev: Nikola Tarantula eletero: 43
+Nev: Szepseg Tarantula eletero: 13
+Nev: Frigyes Macska eletero: 70
+Nev: Lajcsi Macska eletero: 70
+Nev: Kormos Macska eletero: 68
+Nev: Selymeske Horcsog eletero: 22
+Nev: Höri Horcsog eletero: 52
+Nev: Ferenc Horcsog eletero: 12
+
+A legeletrevalobb allat(ok): 
+Nev: Frigyes eletero: 70
+Nev: Lajcsi eletero: 70
+
+12. nap
+Nev: Nikola Tarantula eletero: 41
+Nev: Szepseg Tarantula eletero: 11
+Nev: Frigyes Macska eletero: 70
+Nev: Lajcsi Macska eletero: 70
+Nev: Kormos Macska eletero: 70
+Nev: Selymeske Horcsog eletero: 19
+Nev: Höri Horcsog eletero: 49
+Nev: Ferenc Horcsog eletero: 9
+
+A legeletrevalobb allat(ok): 
+Nev: Frigyes eletero: 70
+Nev: Lajcsi eletero: 70
+Nev: Kormos eletero: 70
+
+13. nap
+Nev: Nikola Tarantula eletero: 39
+Nev: Szepseg Tarantula eletero: 9
+Nev: Frigyes Macska eletero: 70
+Nev: Lajcsi Macska eletero: 70
+Nev: Kormos Macska eletero: 70
+Nev: Selymeske Horcsog eletero: 16
+Nev: Höri Horcsog eletero: 46
+Nev: Ferenc Horcsog eletero: 6
+
+A legeletrevalobb allat(ok): 
+Nev: Frigyes eletero: 70
+Nev: Lajcsi eletero: 70
+Nev: Kormos eletero: 70
+
+14. nap
+Nev: Nikola Tarantula eletero: 37
+Nev: Szepseg Tarantula eletero: 7
+Nev: Frigyes Macska eletero: 70
+Nev: Lajcsi Macska eletero: 70
+Nev: Kormos Macska eletero: 70
+Nev: Selymeske Horcsog eletero: 13
+Nev: Höri Horcsog eletero: 43
+Nev: Ferenc Horcsog eletero: 3
+
+A legeletrevalobb allat(ok): 
+Nev: Frigyes eletero: 70
+Nev: Lajcsi eletero: 70
+Nev: Kormos eletero: 70
+
+15. nap
+Nev: Nikola Tarantula eletero: 35
+Nev: Szepseg Tarantula eletero: 5
+Nev: Frigyes Macska eletero: 70
+Nev: Lajcsi Macska eletero: 70
+Nev: Kormos Macska eletero: 70
+Nev: Selymeske Horcsog eletero: 10
+Nev: Höri Horcsog eletero: 40
+Ferenc Horcsog elpusztult. ;(
+
+A legeletrevalobb allat(ok): 
+Nev: Frigyes eletero: 70
+Nev: Lajcsi eletero: 70
+Nev: Kormos eletero: 70
+
+16. nap
+Nev: Nikola Tarantula eletero: 36
+Nev: Szepseg Tarantula eletero: 6
+Nev: Frigyes Macska eletero: 70
+Nev: Lajcsi Macska eletero: 70
+Nev: Kormos Macska eletero: 70
+Nev: Selymeske Horcsog eletero: 12
+Nev: Höri Horcsog eletero: 42
+Ferenc Horcsog elpusztult. ;(
+
+A legeletrevalobb allat(ok): 
+Nev: Frigyes eletero: 70
+Nev: Lajcsi eletero: 70
+Nev: Kormos eletero: 70
+
+17. nap
+Nev: Nikola Tarantula eletero: 37
+Nev: Szepseg Tarantula eletero: 7
+Nev: Frigyes Macska eletero: 70
+Nev: Lajcsi Macska eletero: 70
+Nev: Kormos Macska eletero: 70
+Nev: Selymeske Horcsog eletero: 14
+Nev: Höri Horcsog eletero: 44
+Ferenc Horcsog elpusztult. ;(
+
+A legeletrevalobb allat(ok): 
+Nev: Frigyes eletero: 70
+Nev: Lajcsi eletero: 70
+Nev: Kormos eletero: 70
+
+18. nap
+Nev: Nikola Tarantula eletero: 38
+Nev: Szepseg Tarantula eletero: 8
+Nev: Frigyes Macska eletero: 70
+Nev: Lajcsi Macska eletero: 70
+Nev: Kormos Macska eletero: 70
+Nev: Selymeske Horcsog eletero: 16
+Nev: Höri Horcsog eletero: 46
+Ferenc Horcsog elpusztult. ;(
+
+A legeletrevalobb allat(ok): 
+Nev: Frigyes eletero: 70
+Nev: Lajcsi eletero: 70
+Nev: Kormos eletero: 70
+
+19. nap
+Nev: Nikola Tarantula eletero: 39
+Nev: Szepseg Tarantula eletero: 9
+Nev: Frigyes Macska eletero: 70
+Nev: Lajcsi Macska eletero: 70
+Nev: Kormos Macska eletero: 70
+Nev: Selymeske Horcsog eletero: 18
+Nev: Höri Horcsog eletero: 48
+Ferenc Horcsog elpusztult. ;(
+
+A legeletrevalobb allat(ok): 
+Nev: Frigyes eletero: 70
+Nev: Lajcsi eletero: 70
+Nev: Kormos eletero: 70
+
+20. nap
+Nev: Nikola Tarantula eletero: 40
+Nev: Szepseg Tarantula eletero: 10
+Nev: Frigyes Macska eletero: 70
+Nev: Lajcsi Macska eletero: 70
+Nev: Kormos Macska eletero: 70
+Nev: Selymeske Horcsog eletero: 20
+Nev: Höri Horcsog eletero: 50
+Ferenc Horcsog elpusztult. ;(
+
+A legeletrevalobb allat(ok): 
+Nev: Frigyes eletero: 70
+Nev: Lajcsi eletero: 70
+Nev: Kormos eletero: 70
+
+21. nap
+Nev: Nikola Tarantula eletero: 41
+Nev: Szepseg Tarantula eletero: 11
+Nev: Frigyes Macska eletero: 70
+Nev: Lajcsi Macska eletero: 70
+Nev: Kormos Macska eletero: 70
+Nev: Selymeske Horcsog eletero: 22
+Nev: Höri Horcsog eletero: 52
+Ferenc Horcsog elpusztult. ;(
+
+A legeletrevalobb allat(ok): 
+Nev: Frigyes eletero: 70
+Nev: Lajcsi eletero: 70
+Nev: Kormos eletero: 70
+
+22. nap
+Nev: Nikola Tarantula eletero: 42
+Nev: Szepseg Tarantula eletero: 12
+Nev: Frigyes Macska eletero: 70
+Nev: Lajcsi Macska eletero: 70
+Nev: Kormos Macska eletero: 70
+Nev: Selymeske Horcsog eletero: 24
+Nev: Höri Horcsog eletero: 54
+Ferenc Horcsog elpusztult. ;(
+
+A legeletrevalobb allat(ok): 
+Nev: Frigyes eletero: 70
+Nev: Lajcsi eletero: 70
+Nev: Kormos eletero: 70
+
+23. nap
+Nev: Nikola Tarantula eletero: 43
+Nev: Szepseg Tarantula eletero: 13
+Nev: Frigyes Macska eletero: 70
+Nev: Lajcsi Macska eletero: 70
+Nev: Kormos Macska eletero: 70
+Nev: Selymeske Horcsog eletero: 26
+Nev: Höri Horcsog eletero: 56
+Ferenc Horcsog elpusztult. ;(
+
+A legeletrevalobb allat(ok): 
+Nev: Frigyes eletero: 70
+Nev: Lajcsi eletero: 70
+Nev: Kormos eletero: 70
+
+24. nap
+Nev: Nikola Tarantula eletero: 44
+Nev: Szepseg Tarantula eletero: 14
+Nev: Frigyes Macska eletero: 70
+Nev: Lajcsi Macska eletero: 70
+Nev: Kormos Macska eletero: 70
+Nev: Selymeske Horcsog eletero: 28
+Nev: Höri Horcsog eletero: 58
+Ferenc Horcsog elpusztult. ;(
+
+A legeletrevalobb allat(ok): 
+Nev: Frigyes eletero: 70
+Nev: Lajcsi eletero: 70
+Nev: Kormos eletero: 70
+
+25. nap
+Nev: Nikola Tarantula eletero: 45
+Nev: Szepseg Tarantula eletero: 15
+Nev: Frigyes Macska eletero: 70
+Nev: Lajcsi Macska eletero: 70
+Nev: Kormos Macska eletero: 70
+Nev: Selymeske Horcsog eletero: 30
+Nev: Höri Horcsog eletero: 60
+Ferenc Horcsog elpusztult. ;(
+
+A legeletrevalobb allat(ok): 
+Nev: Frigyes eletero: 70
+Nev: Lajcsi eletero: 70
+Nev: Kormos eletero: 70
+
+26. nap
+Nev: Nikola Tarantula eletero: 46
+Nev: Szepseg Tarantula eletero: 16
+Nev: Frigyes Macska eletero: 70
+Nev: Lajcsi Macska eletero: 70
+Nev: Kormos Macska eletero: 70
+Nev: Selymeske Horcsog eletero: 32
+Nev: Höri Horcsog eletero: 62
+Ferenc Horcsog elpusztult. ;(
+
+A legeletrevalobb allat(ok): 
+Nev: Frigyes eletero: 70
+Nev: Lajcsi eletero: 70
+Nev: Kormos eletero: 70
+
+27. nap
+Nev: Nikola Tarantula eletero: 47
+Nev: Szepseg Tarantula eletero: 17
+Nev: Frigyes Macska eletero: 70
+Nev: Lajcsi Macska eletero: 70
+Nev: Kormos Macska eletero: 70
+Nev: Selymeske Horcsog eletero: 34
+Nev: Höri Horcsog eletero: 64
+Ferenc Horcsog elpusztult. ;(
+
+A legeletrevalobb allat(ok): 
+Nev: Frigyes eletero: 70
+Nev: Lajcsi eletero: 70
+Nev: Kormos eletero: 70
+
+28. nap
+Nev: Nikola Tarantula eletero: 48
+Nev: Szepseg Tarantula eletero: 18
+Nev: Frigyes Macska eletero: 70
+Nev: Lajcsi Macska eletero: 70
+Nev: Kormos Macska eletero: 70
+Nev: Selymeske Horcsog eletero: 36
+Nev: Höri Horcsog eletero: 66
+Ferenc Horcsog elpusztult. ;(
+
+A legeletrevalobb allat(ok): 
+Nev: Frigyes eletero: 70
+Nev: Lajcsi eletero: 70
+Nev: Kormos eletero: 70
+
+29. nap
+Nev: Nikola Tarantula eletero: 49
+Nev: Szepseg Tarantula eletero: 19
+Nev: Frigyes Macska eletero: 70
+Nev: Lajcsi Macska eletero: 70
+Nev: Kormos Macska eletero: 70
+Nev: Selymeske Horcsog eletero: 38
+Nev: Höri Horcsog eletero: 68
+Ferenc Horcsog elpusztult. ;(
+
+A legeletrevalobb allat(ok): 
+Nev: Frigyes eletero: 70
+Nev: Lajcsi eletero: 70
+Nev: Kormos eletero: 70
+
+File12_Moods -> Ok
